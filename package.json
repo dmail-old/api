@@ -3,10 +3,10 @@
 	"version": "0.0.1",
 	"license": "UNLICENSED",
 	"dependencies": {
-		"@dmail/schema": "git+https://github.com/dmail/schema"
+		
 	},
 	"devDependencies": {
-		"run-test": "git+https://github.com/dmail/run-test"
+		
 	},
 	"scripts": {
 		"test": "run-test",
